@@ -6,6 +6,6 @@ Sempre que um novo exame entrar no radar, esse projeto será atualizado, fique a
 Desenvolvido por: [Luiz Oliveira](mailto:luiz_joli@hotmail.com)
 
 * Exame [AZ204](https://docs.microsoft.com/pt-br/learn/certifications/exams/az-204)
-  * Veja o conteúdo aqui.
+  * Veja o conteúdo [aqui](azure-developer/01-logicapp/01-Introducao.md).
 * Exame [AZ400](https://docs.microsoft.com/pt-br/learn/certifications/exams/az-400)
 * Exame [CKAD](https://www.cncf.io/certification/ckad/)
