@@ -14,3 +14,6 @@ Termos chaves:
  * Actions: Etapas que ocorrem depois que um trigger é disparado.
  * EIP (Enterprise Integration Pack): util para integrações mais avançadas.
 
+[01 - Criando um Logic App](01-CiarLogicApp.md)
+
+[02 - Criando um Conector Personalizado ](02-CriarConnectorPersonalizado.md)

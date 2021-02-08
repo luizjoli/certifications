@@ -45,3 +45,5 @@ New-AzResourceGroupDeployment -ResourceGroupName $resourceGroupName -TemplateUri
 
 Read-Host -Prompt "Press [ENTER] to continue ..."
 ```
+
+[02 - Criando um Conector Personalizado ](02-CriarConnectorPersonalizado.md)
